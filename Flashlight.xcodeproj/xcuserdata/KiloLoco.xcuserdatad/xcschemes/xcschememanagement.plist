@@ -9,10 +9,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Watch Flashlight.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>7C8392F91C33CA7800A7EDE0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7C8393101C33CAAF00A7EDE0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
