@@ -432,7 +432,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Flashlight/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kiloloco.Flashlight;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -444,7 +444,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Flashlight/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kiloloco.Flashlight;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -536,6 +536,7 @@
 				7C83930E1C33CA7800A7EDE0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C83932C1C33CAAF00A7EDE0 /* Build configuration list for PBXNativeTarget "Watch Flashlight Extension" */ = {
 			isa = XCConfigurationList;
@@ -544,6 +545,7 @@
 				7C83932E1C33CAAF00A7EDE0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C8393301C33CAAF00A7EDE0 /* Build configuration list for PBXNativeTarget "Watch Flashlight" */ = {
 			isa = XCConfigurationList;
@@ -552,6 +554,7 @@
 				7C8393321C33CAAF00A7EDE0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
